@@ -162,3 +162,6 @@ cython_debug/
 # Jupyter
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+
+# Data Sources
+.csv
